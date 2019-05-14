@@ -1,0 +1,5 @@
+#DATA SOURCE: Keggle
+#path to folder where training data is stored is stored
+path:/media/dmn/bbc6c909-5878-4a41-8590-51139f9491b2/artTainData/painter-by-numbers
+#percent of images that should be in validation
+validation:0.25
